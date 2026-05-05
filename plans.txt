@@ -1,0 +1,12 @@
+Model Name: GPT-Personal
+Price: 10.0
+Parameter Count: 7
+Context Window: 8000
+Available Tokens: 4896
+---------------------------
+Model Name: GPT-Pro
+Price: 30.0
+Parameter Count: 70
+Context Window: 64000
+Available Team Slots: 4
+---------------------------
