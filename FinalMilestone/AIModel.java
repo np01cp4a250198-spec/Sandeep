@@ -1,6 +1,5 @@
 package FinalMilestone;
 public abstract class AIModel {
-
     private String modelName;
     private double price;
     private int parameterCount;

@@ -1,14 +1,10 @@
 package FinalMilestone;
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 import java.io.*;
-
 public class SubscriptionGUI {
-
     private ArrayList<AIModel> plans = new ArrayList<>();
-
     private JTextField modelNameField = new JTextField();
     private JTextField priceField = new JTextField();
     private JTextField parameterField = new JTextField();
@@ -19,9 +15,7 @@ public class SubscriptionGUI {
     private JTextField responseLengthField = new JTextField();
     private JTextField teamMemberField = new JTextField();
     private JTextField indexField = new JTextField();
-
     private JTextArea displayArea = new JTextArea();
-
     public SubscriptionGUI() {
 
         JFrame frame = new JFrame("AI Subscription System");

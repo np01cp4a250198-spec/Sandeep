@@ -1,0 +1,72 @@
+Index Number: 0
+Model Name: GPT Free
+Price: Rs. 20.0
+Parameter Count: 60 billion
+Context Window: 55000 tokens
+Available Tokens: 5897
+Plan Type: Personal Plan
+-----------------------------
+Index Number: 1
+Model Name: GPT Free
+Price: Rs. 20.0
+Parameter Count: 60 billion
+Context Window: 55000 tokens
+Available Team Slots: 5
+Plan Type: Pro Plan
+-----------------------------
+Index Number: 2
+Model Name: GPT Free
+Price: Rs. 20.0
+Parameter Count: 60 billion
+Context Window: 55000 tokens
+Available Team Slots: 5
+Plan Type: Pro Plan
+-----------------------------
+Index Number: 3
+Model Name: GPT Free
+Price: Rs. 20.0
+Parameter Count: 60 billion
+Context Window: 55000 tokens
+Available Tokens: 6000
+Plan Type: Personal Plan
+-----------------------------
+Index Number: 4
+Model Name: GPT Free
+Price: Rs. 20.0
+Parameter Count: 60 billion
+Context Window: 55000 tokens
+Available Tokens: 6000
+Plan Type: Personal Plan
+-----------------------------
+Index Number: 5
+Model Name: GPT Free
+Price: Rs. 20.0
+Parameter Count: 60 billion
+Context Window: 55000 tokens
+Available Tokens: 6000
+Plan Type: Personal Plan
+-----------------------------
+Index Number: 6
+Model Name: GPT Free
+Price: Rs. 20.0
+Parameter Count: 70 billion
+Context Window: 1000 tokens
+Available Tokens: 500
+Plan Type: Personal Plan
+-----------------------------
+Index Number: 7
+Model Name: GPT pro
+Price: Rs. 50.0
+Parameter Count: 120 billion
+Context Window: 2000 tokens
+Available Team Slots: 5
+Plan Type: Pro Plan
+-----------------------------
+Index Number: 8
+Model Name: GPT pro
+Price: Rs. 50.0
+Parameter Count: 120 billion
+Context Window: 2000 tokens
+Available Team Slots: 5
+Plan Type: Pro Plan
+-----------------------------

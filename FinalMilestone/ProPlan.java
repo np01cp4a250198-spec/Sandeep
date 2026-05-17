@@ -1,9 +1,6 @@
 package FinalMilestone;
-
 public class ProPlan extends AIModel {
-
     private int availableSlots;
-
     public ProPlan(String modelName, double price, int parameterCount, int contextWindow, int availableSlots) {
         super(modelName, price, parameterCount, contextWindow);
         this.availableSlots = availableSlots;
@@ -22,7 +19,7 @@ public class ProPlan extends AIModel {
         availableSlots++;
         return "Team member " + memberName + " removed. Available slots: " + availableSlots;
     }
-
+    
     public String enterPrompt(String promptText, int expectedOutputTokens) {
         try {
             int totalTokens = calculateTotalToken(promptText, expectedOutputTokens);
